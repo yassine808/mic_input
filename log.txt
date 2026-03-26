@@ -1,0 +1,84 @@
+2026-03-26 13:49:25  Loading model...
+2026-03-26 13:49:26  Listening for "mute"... (Ctrl+C to stop)
+
+2026-03-26 13:49:33  Heard: flown
+2026-03-26 13:49:39  Heard: i never said that
+2026-03-26 13:51:20  Loading model...
+2026-03-26 13:51:21  Listening for "mute"... (Ctrl+C to stop)
+
+2026-03-26 13:51:31  Heard: does
+2026-03-26 13:51:34  Heard: that
+2026-03-26 13:51:37  Heard: dust
+2026-03-26 13:51:40  Heard: this
+2026-03-26 13:51:43  Heard: dave the
+2026-03-26 13:51:48  Heard: what the fuck
+2026-03-26 13:51:52  Heard: discord meals
+2026-03-26 13:51:57  Heard: the mutes
+2026-03-26 13:51:57  >>> Triggering Discord mute!
+2026-03-26 13:55:04  Heard: huh
+2026-03-26 13:55:24  Heard: huh
+2026-03-26 13:55:44  Heard: huh
+2026-03-26 13:55:52  Heard: ha
+2026-03-26 13:56:11  Loading model...
+2026-03-26 13:56:12  Listening for "mute"... (Ctrl+C to stop)
+
+2026-03-26 13:56:38  Heard: new york's
+2026-03-26 13:56:45  Heard: mutes
+2026-03-26 13:58:09  Loading model...
+2026-03-26 13:58:10  Listening for "mute"... (Ctrl+C to stop)
+
+2026-03-26 13:58:26  Heard: notes
+2026-03-26 13:58:29  Heard: mute
+2026-03-26 13:58:29  >>> Triggering Discord mute!
+2026-03-26 13:58:33  Heard: mute
+2026-03-26 13:58:33  >>> Triggering Discord mute!
+2026-03-26 13:58:36  Heard: meals
+2026-03-26 13:58:41  Heard: mutes
+2026-03-26 13:58:41  >>> Triggering Discord mute!
+2026-03-26 13:58:45  Heard: mute
+2026-03-26 13:58:45  >>> Triggering Discord mute!
+2026-03-26 13:58:51  Heard: meals
+2026-03-26 13:58:55  Heard: okay mute
+2026-03-26 13:58:55  >>> Triggering Discord mute!
+2026-03-26 13:58:59  Heard: mute
+2026-03-26 13:58:59  >>> Triggering Discord mute!
+2026-03-26 13:59:05  Heard: all
+2026-03-26 13:59:06  Heard: give
+2026-03-26 13:59:11  Heard: and pippin
+2026-03-26 14:03:48  Heard: he he
+2026-03-26 14:04:10  Heard: have to go movement or for her the uk move
+2026-03-26 14:05:04  Heard: if they can just
+2026-03-26 14:05:09  Heard: are you
+2026-03-26 14:05:12  Heard: i mean
+2026-03-26 14:05:16  Heard: snape turn i am
+2026-03-26 14:05:18  Heard: the cock
+2026-03-26 14:05:26  Heard: a bar where care
+2026-03-26 14:05:42  Heard: i'm a stay there you see sooner
+2026-03-26 14:05:45  Heard: up been today's
+2026-03-26 14:07:06  Heard: hello
+2026-03-26 14:07:19  Heard: relax
+2026-03-26 14:07:23  Heard: mute
+2026-03-26 14:07:23  >>> Triggering Discord mute!
+2026-03-26 14:08:08  Heard: mute
+2026-03-26 14:08:08  >>> Triggering Discord mute!
+2026-03-26 14:08:10  Heard: minutes
+2026-03-26 14:08:12  Heard: mute
+2026-03-26 14:08:12  >>> Triggering Discord mute!
+2026-03-26 14:08:18  Heard: mute
+2026-03-26 14:08:18  >>> Triggering Discord mute!
+2026-03-26 14:10:24  Loading model...
+2026-03-26 14:10:26  Listening for "mute" or "exit"...
+
+2026-03-26 14:10:29  Heard: hello
+2026-03-26 14:10:43  Heard: dust
+2026-03-26 14:10:46  Heard: that's
+2026-03-26 14:10:49  Heard: best
+2026-03-26 14:10:53  Heard: t e s t
+2026-03-26 14:10:56  Heard: that
+2026-03-26 14:11:27  Heard: mute
+2026-03-26 14:11:27  >>> Toggling Discord mute
+2026-03-26 14:11:30  Heard: meals
+2026-03-26 14:11:34  Heard: mute
+2026-03-26 14:11:34  >>> Toggling Discord mute
+2026-03-26 14:11:38  Heard: exit
+2026-03-26 14:11:38  >>> Exiting... bye
